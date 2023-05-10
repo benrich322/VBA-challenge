@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module3"
 Sub VBA_Challenge()
 ' Declare Current as a worksheet object variable.
 Dim Current As Worksheet
